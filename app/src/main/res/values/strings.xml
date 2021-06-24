@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Book Library</string>
+    <string name="floating_button">add</string>
+    <string name="AddBook">Add Book</string>
+    <string name="title_input">Book Title</string>
+    <string name="author_input">Author Name</string>
+    <string name="pages_input">Number of Pages</string>
+    <string name="add_button">Add</string>
+    <string name="update_button">Update</string>
+    <string name="delete_button">Delete</string>
+</resources>
